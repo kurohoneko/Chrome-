@@ -18,3 +18,5 @@ my google chrome theme collection
 #### Color Fusion
 [Color Fusion](https://chrome.google.com/webstore/detail/color-fusion/nlbhgldkknkdbmokgljifjohkembinbd)
 
+#### Sooth Gradient
+[Sooth Gradient](https://chrome.google.com/webstore/detail/sooth-gradient/pamnhppfegefocfcinlhnblodaglebjg)
