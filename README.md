@@ -15,8 +15,12 @@ my google chrome theme collection
 
 ## Color Gradient
 
+#### Sooth Gradient
+[Sooth Gradient](https://chrome.google.com/webstore/detail/sooth-gradient/pamnhppfegefocfcinlhnblodaglebjg)
+
+![Sooth Gradient](https://lh3.googleusercontent.com/4BGeECyhOaZzYTsliEex3Y-YdP4fAkVd-8kcw-PLKoJNRiejczVylkT_ukzvab8ZfrWa-2X7nJda62zKlBX7rMKt=w640-h400-e365-rj-sc0x00ffffff)
+
+
 #### Color Fusion
 [Color Fusion](https://chrome.google.com/webstore/detail/color-fusion/nlbhgldkknkdbmokgljifjohkembinbd)
 
-#### Sooth Gradient
-[Sooth Gradient](https://chrome.google.com/webstore/detail/sooth-gradient/pamnhppfegefocfcinlhnblodaglebjg)
