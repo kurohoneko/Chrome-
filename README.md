@@ -3,7 +3,7 @@ my google chrome theme collection
 
 ## Anime
 
-#### * Hatsune Miku
+#### Hatsune Miku
 
 [Hatsune Miku](https://chrome.google.com/webstore/detail/hatsune-miku/kigfdicgjnpjkhbnngdfgjfffmdaonfg)
 
