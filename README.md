@@ -1,5 +1,5 @@
 # Chrome Theme Collection
-My Google Chrome Theme Collection
+my google chrome theme collection
 
 ## Anime
 
