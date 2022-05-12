@@ -23,4 +23,9 @@ my google chrome theme collection
 ![Sooth Gradient](https://lh3.googleusercontent.com/4BGeECyhOaZzYTsliEex3Y-YdP4fAkVd-8kcw-PLKoJNRiejczVylkT_ukzvab8ZfrWa-2X7nJda62zKlBX7rMKt=w640-h400-e365-rj-sc0x00ffffff)
 
 
+### My Color Fusion
+[My Color Fusion](https://chrome.google.com/webstore/detail/my-color-fusion/ofpmmbaiajjlhnfinjkmpkmenokaokpe)
+
+[My Color Fusion](https://lh3.googleusercontent.com/TPGnz1LI_tq99w0zfEAz58yKwiXHD3ERlCek6P834CS1GmsG-d4_BcXcl8ckA0ZzEeQEVMv0pJQ_uXui-bpHHqWL-Ds=w640-h400-e365-rj-sc0x00ffffff)
+
 
