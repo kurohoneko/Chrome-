@@ -142,6 +142,11 @@ author: [わか/IMBK Official](http://waka3.web.fc2.com/)
 ![doink](https://lh3.googleusercontent.com/92m8qNJGL5ZxPyNpj3janDY75v5Uzl_K1qvGJgEGq-qzEM93-L_wKJ7_oh9Mo_5KxvKSRlTEZKmFfYfcK50FYsoulpE=w640-h400-e365-rj-sc0x00ffffff)
 
 
+### Slinky 木
+> [Slinky 木](https://lh3.googleusercontent.com/XWAneZNw-3_-hR99m4_s5AtmplW57G7Z8ASLK8prT6T_I-lROk1gFoafbj86daNwkk4iqpuL1csSQ5Zy8GYZQ8qi2g=w640-h400-e365-rj-sc0x00ffffff)
+
+![Slinky 木](https://chrome.google.com/webstore/detail/slinky-wood/hcaidncenfklbfikefeppfgehcbmmecn)
+
 
 ---------
 
