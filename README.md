@@ -116,6 +116,11 @@ google chrome theme collection
 ![Green Pop Theme](https://lh3.googleusercontent.com/cFcObLjrWKfEU8onw06VmZs-qTpq0gtX3FnxcceCrYKVZUCMyUZpeLSQNwMrpUCfp7IqhGZ8delh9irOOWTgRWSdig=w640-h400-e365-rj-sc0x00ffffff)
 
 
+### doink
+> [doink](https://chrome.google.com/webstore/detail/doink/kfpckflpocoefedlbjbiailolhdhpmli)
+
+![doink](https://lh3.googleusercontent.com/92m8qNJGL5ZxPyNpj3janDY75v5Uzl_K1qvGJgEGq-qzEM93-L_wKJ7_oh9Mo_5KxvKSRlTEZKmFfYfcK50FYsoulpE=w640-h400-e365-rj-sc0x00ffffff)
+
 ---------
 
 
