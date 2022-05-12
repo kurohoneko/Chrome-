@@ -69,6 +69,7 @@ google chrome theme collection
 ---------
 
 
+
 ## Color Gradient
 
 ### Sooth Gradient
@@ -89,6 +90,10 @@ google chrome theme collection
 ![Pastel Rainbow](https://lh3.googleusercontent.com/UPb1cF0i-fj-nrnQZdXCeF41vwGqpz_HWWsGfmx-NOtXleCq034zhuCouanr7d-Qhp5VXoCqDgz_2hthKn_dCZLk=w640-h400-e365-rj-sc0x00ffffff)
 
 
+### Starry Sky 2 1440p
+> [Starry Sky 2 1440p](https://chrome.google.com/webstore/detail/starry-sky-2-1440p/ebdkffknocicikabmdbbofjakebkbhdk)
+
+![Starry Sky 2 1440p](https://lh3.googleusercontent.com/fGuAda-RcjBF3lHMhWMOdm9ia6fK6rssYScR4cOSVPfwqtXeuwgstJC46Nbh2dqHYWDGvYzWxsTwC2INsoPWSO7--w=w640-h400-e365-rj-sc0x00ffffff)
 
 ---------
 
@@ -121,7 +126,10 @@ google chrome theme collection
 
 ![doink](https://lh3.googleusercontent.com/92m8qNJGL5ZxPyNpj3janDY75v5Uzl_K1qvGJgEGq-qzEM93-L_wKJ7_oh9Mo_5KxvKSRlTEZKmFfYfcK50FYsoulpE=w640-h400-e365-rj-sc0x00ffffff)
 
+
+
 ---------
+
 
 
 ## Solid Color
@@ -178,18 +186,6 @@ google chrome theme collection
 > [Pink Chrome Theme](https://chrome.google.com/webstore/detail/pink-chrome-theme/cioloaghdfplojaclmjnboaloifepeol)
 
 ![Pink Chrome Theme](https://lh3.googleusercontent.com/MNpgKosP8Rmal5xD1qPl27kwoPFTBjWmCa947zwKiq3wQFkLSN1ttIzEr2dlaly575639uKxltE_vjFwSoW-oV19=w640-h400-e365-rj-sc0x00ffffff)
-
-
-### 
-
-
-
-
-
-
-
-
-
 
 
 
