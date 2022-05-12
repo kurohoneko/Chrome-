@@ -1,5 +1,6 @@
 # Chrome Theme Collection
 google chrome theme collection
+谷歌浏览器chrome主题收藏
 
 ## Anime
 
