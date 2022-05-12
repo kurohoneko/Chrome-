@@ -66,7 +66,7 @@ google chrome theme collection
 
 
 
-
+---------
 
 
 ## Color Gradient
@@ -90,6 +90,7 @@ google chrome theme collection
 
 
 
+---------
 
 
 
@@ -101,13 +102,105 @@ google chrome theme collection
 ![Green Pop Theme](https://lh3.googleusercontent.com/cFcObLjrWKfEU8onw06VmZs-qTpq0gtX3FnxcceCrYKVZUCMyUZpeLSQNwMrpUCfp7IqhGZ8delh9irOOWTgRWSdig=w640-h400-e365-rj-sc0x00ffffff)
 
 
-
-### Flower Power 第一
+### Flower Power
 ***amazing***
 
 > [Flower Power](https://chrome.google.com/webstore/detail/flower-power/dpapfcgjbomdehpglobkahgbbfamomgo)
 
 ![Flower Power](https://lh3.googleusercontent.com/74RLFM8ec01XakE_SewdpEXj8g04rxI6kk9ILzXigjZz5lMwdVI0AXznI3Z2Em63P4WfDtO5eLGdzvasuxhGgGL2WpM=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### Green Pop Theme
+> [Green Pop Theme](https://chrome.google.com/webstore/detail/green-pop-theme/ffgapkaegdmcompheglkkponnpmfdcgf)
+
+![Green Pop Theme](https://lh3.googleusercontent.com/cFcObLjrWKfEU8onw06VmZs-qTpq0gtX3FnxcceCrYKVZUCMyUZpeLSQNwMrpUCfp7IqhGZ8delh9irOOWTgRWSdig=w640-h400-e365-rj-sc0x00ffffff)
+
+
+---------
+
+
+## Solid Color
+
+### Rose
+> [Rose](https://chrome.google.com/webstore/detail/rose/aobcgffnbkbipbflopponndoiommhnch)
+
+![Rose](https://lh3.googleusercontent.com/4VKkNkKh_cEX-4o6kY6cmGZKODk3LYFCWjDDpS6iVJ2E3gLESq4q2MvFfYPYK7Ocm7LaJ5d3VI8DLyXs4Ai1oiPM6fU=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### Sea Foam
+> [Sea Foam](https://chrome.google.com/webstore/detail/sea-foam/lahipjfggmgneaopcckkaipmoandaboo)
+
+![Sea Foam](https://lh3.googleusercontent.com/8UfX1UwzdvZhf2ZqDFPP72ektx-A2DAngQYZNYH_fKzObQjaUnEeT7Px7h54LmuZvceetBzHLnF8wyTgbGAzLdTS=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### Google Chrome的黑暗主题
+> [Google Chrome的黑暗主题](https://chrome.google.com/webstore/detail/dark-theme-for-google-chr/annfbnbieaamhaimclajlajpijgkdblo)
+
+![Google Chrome的黑暗主题](https://lh3.googleusercontent.com/CFSPyZssHZAaJuJDSGuswR4JbQNFLPFy3iWUSjgahG581yqob5p7ocU5AjQjj7DR_UZwxBB0aKOUrdUWd08N9Aa7Rlw=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### Black & White
+> [Black & White](https://chrome.google.com/webstore/detail/black-white/mhhlgkfginnlendpfkhcmldikeepoefa)
+
+![Black & White](https://lh3.googleusercontent.com/KbLVSzfT-Q6Ro0VjfyKX-ktR3yafWRxUCiFpUiwvuFgT2fVjDEdkOxsXI90lZjuJT6M2yeVFcGvoIzG8z82_8MnNwA=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### pro grey
+> [pro grey](https://chrome.google.com/webstore/detail/pro-grey/enhpebdanojkmhbbneclbkmpleemilaj)
+
+![pro grey](https://lh3.googleusercontent.com/Vao4hZ0PBxCjQPvsMn3qQiWaL-YjZ02gwJKjilmmaQ1uEnblcWVBVJlyvoMec00SHvLOE88h7q4rvU9ZMhOSE2bdUw=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### Serenity
+> [Serenity](https://chrome.google.com/webstore/detail/serenity/pjjaaonciccncnfeeecpnfgepojgmfpg)
+
+![Serenity](https://lh3.googleusercontent.com/-0wSm5383mTRimw328e4Ui8IELfYqXGFynK_jMSkHhP-Qj8ZDeKXH4xov3RpErSBDfxIIRbSD8upX1JJN0N3k0Whlw=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### Banana
+> [Banana](https://chrome.google.com/webstore/detail/banana/cdkecinaonohgbmhojlaeeoalomfhlal)
+
+![Banana](https://lh3.googleusercontent.com/OjgF72zdoHKucPnuintLMkjMae1ooxiUjL95prWtSVf0AN72tQR_fcKFBmZHC-r8Ev7jhL8NWhcEdFVWDzGvHsh0uXA=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### Slinky
+> [Slinky](https://chrome.google.com/webstore/detail/slinky-vintage/kkdjbhifhppglclhnmmnlfloepnolbkn)
+
+![Slinky](https://lh3.googleusercontent.com/PdK1wB0jXp5OAHOlTqnx0SBSaEVX3Lf-8ExYFHJMZPie1ucic495ZYNlHAPuF42FoeM3zfm_Jczl0ZYprdorlBHPrQ=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### Pink Chrome Theme
+> [Pink Chrome Theme](https://chrome.google.com/webstore/detail/pink-chrome-theme/cioloaghdfplojaclmjnboaloifepeol)
+
+![Pink Chrome Theme](https://lh3.googleusercontent.com/MNpgKosP8Rmal5xD1qPl27kwoPFTBjWmCa947zwKiq3wQFkLSN1ttIzEr2dlaly575639uKxltE_vjFwSoW-oV19=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
