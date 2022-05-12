@@ -130,12 +130,6 @@ author: [わか/IMBK Official](http://waka3.web.fc2.com/)
 ![Flower Power](https://lh3.googleusercontent.com/74RLFM8ec01XakE_SewdpEXj8g04rxI6kk9ILzXigjZz5lMwdVI0AXznI3Z2Em63P4WfDtO5eLGdzvasuxhGgGL2WpM=w640-h400-e365-rj-sc0x00ffffff)
 
 
-### Green Pop Theme
-> [Green Pop Theme](https://chrome.google.com/webstore/detail/green-pop-theme/ffgapkaegdmcompheglkkponnpmfdcgf)
-
-![Green Pop Theme](https://lh3.googleusercontent.com/cFcObLjrWKfEU8onw06VmZs-qTpq0gtX3FnxcceCrYKVZUCMyUZpeLSQNwMrpUCfp7IqhGZ8delh9irOOWTgRWSdig=w640-h400-e365-rj-sc0x00ffffff)
-
-
 ### doink
 > [doink](https://chrome.google.com/webstore/detail/doink/kfpckflpocoefedlbjbiailolhdhpmli)
 
