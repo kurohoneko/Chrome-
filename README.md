@@ -21,10 +21,16 @@ google chrome theme collection
 ![Sexy Hatsune Miku Anime Design](https://lh3.googleusercontent.com/k8io0Evh_sKzqriGQMwRgCDiOc_BHosXYjFK0u41ErdR1JU3RvKir1hyhJ85rewbJJsc7e1hI57dT8iSfgQA-s2XYA=w640-h400-e365-rj-sc0x00ffffff)
 
 
-###
+### Yin
+> [Yin](https://chrome.google.com/webstore/detail/yin/ildepmemekfmmbkhhlhfdammihfhghea)
+
+![Yin](https://lh3.googleusercontent.com/1BzCdtpMpoE0mO4c-ThEKMjwwPh3Q5QiMin82OQpA5uq405uRvYOaM2KP55xh5L5bQpXBwKirJQDzA59w1lN1C_Kmg=w640-h400-e365-rj-sc0x00ffffff)
 
 
+### Snow Miku
+> [Snow Miku](https://chrome.google.com/webstore/detail/snow-miku/bjfgjdacfnhiklhnmglpdfllknbiolch)
 
+![Snow Miku](https://lh3.googleusercontent.com/CUk8yTSfGqgBIFKcwX9sQzcUhZA-OxNtwRLXEjnlDOkzvef7U1epl2nR7hgGUpcguTk61-hlhJg2atspB-6zrhJILg=w640-h400-e365-rj-sc0x00ffffff)
 
 
 
@@ -42,7 +48,10 @@ google chrome theme collection
 ![My Color Fusion](https://lh3.googleusercontent.com/TPGnz1LI_tq99w0zfEAz58yKwiXHD3ERlCek6P834CS1GmsG-d4_BcXcl8ckA0ZzEeQEVMv0pJQ_uXui-bpHHqWL-Ds=w640-h400-e365-rj-sc0x00ffffff)
 
 
+### Pastel Rainbow
+> [Pastel Rainbow](https://chrome.google.com/webstore/detail/pastel-rainbow/pdhoceimegkficijfafgokdklbjgobmg)
 
+![Pastel Rainbow](https://lh3.googleusercontent.com/UPb1cF0i-fj-nrnQZdXCeF41vwGqpz_HWWsGfmx-NOtXleCq034zhuCouanr7d-Qhp5VXoCqDgz_2hthKn_dCZLk=w640-h400-e365-rj-sc0x00ffffff)
 
 
 
@@ -58,8 +67,8 @@ google chrome theme collection
 
 
 
-### Flower Power
-**amazing**
+### Flower Power 第一
+***amazing***
 
 > [Flower Power](https://chrome.google.com/webstore/detail/flower-power/dpapfcgjbomdehpglobkahgbbfamomgo)
 
