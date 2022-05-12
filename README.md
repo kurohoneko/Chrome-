@@ -15,6 +15,38 @@ google chrome theme collection
 ![Kuroneko Chrome Theme](https://lh3.googleusercontent.com/j_lLt5CUKAf_I3LfHVdMwu1R5rxoM4rXOgnctUUNi0lKHVkYDUjL0STjECY5GeMHF45Y_5peqUvpCLlXW2dOX1PB2Q=w640-h400-e365-rj-sc0x00ffffff)
 
 
+### Genshin Impact: Barbara Theme
+> [Genshin Impact: Barbara Theme](https://chrome.google.com/webstore/detail/genshin-impact-barbara-th/ikakaehdnlhboflkmkicakehnhnkjjei)
+
+![Genshin Impact: Barbara Theme](https://lh3.googleusercontent.com/bgbzEdCQyiQuSKarKV5MWUz9WAiXxRAWuXVmmyCTIMqjv6Nrdg6jIVB1PkONKQ092K05TrUhGxJ_h5dIa0thyusD3Q=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### Anime Girl
+***Transparent***
+> [Anime Girl](https://chrome.google.com/webstore/detail/anime-girl/cpmlamieecjdmljdfehjeflgjkochcnb)
+
+![Anime Girl](https://lh3.googleusercontent.com/W4gEEX64I3b_WUKTA-0DcvaYqSiKcJICDT_yjySkL5pCqp9iXd3648Xmf3-S-cH7Jv02mUsgMiZBDUhSVgV-bYiV=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### Angel
+> [Angel](https://chrome.google.com/webstore/detail/angel/kpdemojoioiaphjkmkdpoipobebcolaa)
+
+![Angel](https://lh3.googleusercontent.com/pBcVX1Om6xkOoOwKISI9O62TxXllRFygfkKv7Wr0tHPf_ZC5tsaxxTcMZ4oOdcPIhPI2ezx3P6-Ta5LckuXD5cVoTg=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### Love Live Yazawa Nico
+> [Love Live Yazawa Nico](https://chrome.google.com/webstore/detail/love-live-yazawa-nico/ahiacldmifmdijlncebecpbppimbdhhi)
+
+![Love Live Yazawa Nico](https://lh3.googleusercontent.com/ntUYr7F6dUG-AJ1tfEtl_pKPCn34O5OAVYK7NUQohvpmFcxkEsuVO32yp5l3dZ84iJEPuu8xVPpLGw__ofFV4SKztA=w640-h400-e365-rj-sc0x00ffffff)
+
+
+### Touhou Alice Margatroid 1920*1080
+***R16***
+> [Touhou Alice Margatroid 1920*1080](https://chrome.google.com/webstore/detail/touhou-alice-margatroid-1/pphacahahjcdggpdfoagbfbnelciegnn)
+
+![Touhou Alice Margatroid 1920*1080](https://lh3.googleusercontent.com/yaI5zyaINITPqJ0fQ7ffotu_XZW4Sj1ghAI7pFhs_r0ux-o0cNfrfsE-UcZX7MzrXsB3Mnd9dmZMz9dVS7gsrYeOOg=w640-h400-e365-rj-sc0x00ffffff)
+
+
 ### Sexy Hatsune Miku Anime Design
 > [Sexy Hatsune Miku Anime Design](https://chrome.google.com/webstore/detail/sexy-hatsune-miku-anime-d/hdphmncidddodnegmpjdkeofgoggmlpp)
 
@@ -31,6 +63,9 @@ google chrome theme collection
 > [Snow Miku](https://chrome.google.com/webstore/detail/snow-miku/bjfgjdacfnhiklhnmglpdfllknbiolch)
 
 ![Snow Miku](https://lh3.googleusercontent.com/CUk8yTSfGqgBIFKcwX9sQzcUhZA-OxNtwRLXEjnlDOkzvef7U1epl2nR7hgGUpcguTk61-hlhJg2atspB-6zrhJILg=w640-h400-e365-rj-sc0x00ffffff)
+
+
+
 
 
 
